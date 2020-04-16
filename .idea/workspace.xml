@@ -22,10 +22,11 @@
   <component name="ProjectId" id="1aZLzLFmbsacXt1il4K63Bgo8PE" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../portfolio/templates/home.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/account" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\GitHub\ph\account" />
       <recent name="C:\Users\admin\GitHub\ph\templates" />
     </key>
   </component>
@@ -59,7 +60,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
